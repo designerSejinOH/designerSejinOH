@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
 ![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
