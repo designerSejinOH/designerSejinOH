@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designerSejinOH&show_icons=true&theme=cobalt2)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=designerSejinOH)](https://solved.ac/designerSejinOH)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designerSejinOH&layout=compact&theme=dark)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
