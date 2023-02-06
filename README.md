@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="58" height="58" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
 </div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designerSejinOH&show_icons=true&theme=cobalt2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designerSejinOH&layout=demo&theme=dark)
