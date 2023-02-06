@@ -16,24 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&text=%20designerSejinOH%20%20&height=200&fontSize=90&fontColor=000000)
-<div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="58" height="58" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
-</div>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+
+![Processing](https://img.shields.io/badge/-Processing Foundation-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
 ![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
