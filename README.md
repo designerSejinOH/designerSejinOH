@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designerSejinOH&layout=compact&theme=dark)
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFFFFF)
