@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&text=%20designerSejinOH%20%20&height=200&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&text=%20designerSejinOH%20%20&height=100&fontSize=90&fontColor=000000)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
